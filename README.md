@@ -1,6 +1,6 @@
 # Springer Source Code
 
-This repository accompanies *Linear Programming Using MATLAB®* by Nikolaos Ploskas and Nikolaos Samaras (Springer, 2018).
+This repository accompanies *Multiple Criteria Decision Making: Methods, Examples and Python Implementations* by Jason Papathanasiou and Nikolaos Ploskas (Springer, 2018).
 
 
 ![Cover Image](cover.jpg)	
