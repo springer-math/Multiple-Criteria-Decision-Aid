@@ -1,8 +1,11 @@
 # Springer Source Code
 
 This repository accompanies *Linear Programming Using MATLAB®* by Nikolaos Ploskas and Nikolaos Samaras (Springer, 2018).
+
+
 ![Cover Image](cover.jpg)	
 
+# 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
 ## Releases
